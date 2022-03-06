@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @刘阿迈
-- 👀 I’m interested in css javascript vue  react
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on xxx
+- 👀 I’m interested in html css Javascript Vue  React node GO...
+- 🌱 I’m currently learning React
 - 📫 How to reach me 13298382579@163.com
 
 <!---
