@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @古月月
+- 👋 Hi, I’m @古月月月
 - 👀 I’m interested in html css Javascript Vue  React node GO...
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning GO
 - 📫 How to reach me 13298382579@163.com
 
 <!---
